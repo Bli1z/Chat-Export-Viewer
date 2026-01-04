@@ -1,0 +1,55 @@
+.app {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.app-layout {
+    flex: 1;
+    display: flex;
+    overflow: hidden;
+}
+
+.app-sidebar {
+    width: 350px;
+    flex-shrink: 0;
+}
+
+.app-chat {
+    flex: 1;
+    min-width: 0;
+}
+
+.app-empty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: var(--color-bg-chat);
+    color: var(--color-text-secondary);
+    text-align: center;
+    padding: var(--spacing-xl);
+}
+
+.app-empty svg {
+    opacity: 0.3;
+    margin-bottom: var(--spacing-lg);
+}
+
+.app-empty h2 {
+    margin-bottom: var(--spacing-sm);
+    color: var(--color-text-primary);
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+    .app-sidebar {
+        width: 100%;
+    }
+
+    .app-chat {
+        width: 100%;
+    }
+}

@@ -1,0 +1,22 @@
+[25/09/2023, 10:30:15] John Doe: Hey! How are you?
+[25/09/2023, 10:31:22] Jane Smith: I'm doing great, thanks for asking! How about you?
+[25/09/2023, 10:32:45] John Doe: Pretty good! 
+Just finished working on that project we discussed last week.
+[25/09/2023, 10:33:10] Jane Smith: That's awesome! How did it turn out?
+[25/09/2023, 10:34:05] John Doe: <Media omitted>
+[25/09/2023, 10:34:15] John Doe: Check out this screenshot, looks pretty good right?
+[25/09/2023, 10:35:30] Jane Smith: Wow, that looks amazing! 😍
+[25/09/2023, 10:36:00] Messages and calls are end-to-end encrypted. No one outside of this chat can read or listen to them.
+[25/09/2023, 10:37:20] Jane Smith: When can we meet up to discuss the details?
+[25/09/2023, 10:38:45] John Doe: How about tomorrow at 3 PM?
+[25/09/2023, 10:39:10] Jane Smith: Perfect! See you then 👍
+[25/09/2023, 14:22:00] John Doe: Actually, let me send you the full document
+[25/09/2023, 14:22:15] John Doe: <Media omitted>
+[25/09/2023, 14:25:30] Jane Smith: Got it, thanks!
+[26/09/2023, 09:00:00] John Doe: Good morning! Ready for our meeting today?
+[26/09/2023, 09:15:45] Jane Smith: Yes! I'll be there at 3 PM sharp.
+[26/09/2023, 09:16:20] John Doe: Great! I've prepared everything we need to discuss.
+[26/09/2023, 15:30:00] Jane Smith: That was a productive meeting! Thanks for all the insights.
+[26/09/2023, 15:31:15] John Doe: Absolutely! Let's do this weekly.
+[26/09/2023, 15:32:00] Jane Smith: Agreed! Same time next week?
+[26/09/2023, 15:32:45] John Doe: Perfect! I'll send you a calendar invite.
