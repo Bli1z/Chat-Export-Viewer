@@ -42,7 +42,7 @@ View your exported chat history with full media support, search functionality, a
 - **Instant Toggle** — Change POV without reloading
 
 ### ⚡ Performance Optimized
-- **300k+ Messages** — Handles massive chat exports smoothly
+- **999k+ Messages** — Handles massive chat exports smoothly
 - **Virtual Scrolling** — Only renders visible messages (React Virtuoso)
 - **Chunked Processing** — Non-blocking import with progress tracking
 - **GPU Acceleration** — Smooth scrolling with `will-change: transform`
